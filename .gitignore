@@ -1,0 +1,17 @@
+# --- Altium Designer ---
+History/
+__Previews/
+Project Logs for */
+Project Outputs for */
+*.PrjPcbStructure
+*.PcbDocPreview
+*.SchDocPreview
+
+# --- Kompas-3D ---
+*.bak
+~$*
+
+# --- Прочее ---
+Thumbs.db
+Desktop.ini
+.DS_Store
